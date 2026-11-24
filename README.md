@@ -1,6 +1,6 @@
-# <a href="![6062646](https://github.com/DubsyDev/Franklin-Newman-Dubsy-aaaaaaaaaaaa/assets/124395093/7606bb9c-55bb-4ed0-bda5-e3256cb237d2)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png" height="40" /></a> Franklin Newman (Dubsy)
+# <a href="![6062646](https://github.com/DubsyDev/Franklin-Newman-Dubsy-aaaaaaaaaaaa/assets/124395093/7606bb9c-55bb-4ed0-bda5-e3256cb237d2)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png" height="40" /></a> Hi i'm Franklin Newman (DubsyDev)
 
-Im an indie full-stack developer building softwares and networks that are applied into the real world. I am a passoniate learner who's always willing to learn and work across different IDEs and Languages. Most of my coding projects are built from the ground up, from planning all the way to solving real-life problems with code. 
+I'm an indie game developer who has passion for game development, QA testing, and networking. Currently I am working on my own game entitled SnowFall and additionally interested in learning networking. I love C#
 
 # 🧰 Tools, Libraries, and Languages
 
